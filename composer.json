@@ -4,6 +4,7 @@
     "keywords": ["protobuf", "protocol buffer", "serializing"],
     "homepage": "https://github.com/oRastor/Protobuf-PHP",
     "type": "library",
+    "version": "1.0",
     "license": "MIT",
     "authors": [
         {
